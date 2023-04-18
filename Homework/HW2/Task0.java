@@ -3,9 +3,9 @@
 // jewels = “aB”, stones = “aaaAbbbB”
 // Результат в консоль ”a3B1”
 
-package For_java_HW;
+package HW2;
 import java.util.Scanner;
-public class Task_2_0 {
+public class Task0 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Введите названия драгоценных камней =  ");
