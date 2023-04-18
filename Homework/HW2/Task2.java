@@ -23,9 +23,9 @@ Sample Output:
 Посыпьте измельчённый колбаса на мороженое.
 Рецепт 2. Вишня 100гр, молоко 3кг. Смешать, есть) Радоваться жизни.*/
 
-package Java;
+package HW2;
 import java.util.*;
-public class Task_2_2 {
+public class Task2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in, "Cp866");
         System.out.printf("Введите число строк в книге= ");
